@@ -1,13 +1,15 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# SpotifyClone-SQL
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Um projeto para normalizada e popular com alguns dados dos artistas do Spotify para que depois possa executar queries com o intuito de encontrar as informações solicitadas.
+O projeto foi trabalhado no MySQL Workbench, e depois colocado para representar no desenvolvimento.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## **Desenvolvimento**
+
+Normalize uma tabela na terceira forma normal e acesse as informações desta tabela através de `queries` utilizando `SQL`;
+
+Crie um banco com o nome de **`SpotifyClone`**;
+
+Funções mais usadas no SQL.
+
+## **Ferramentas**
+Node.js, Javascript, Docker e SQL.
